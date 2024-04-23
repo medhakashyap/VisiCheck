@@ -1,0 +1,161 @@
+Unnamed: 0,disease,workout
+0,Conjunctivitis,Avoid allergenic foods
+1,Conjunctivitis,Consume anti-inflammatory foods
+2,Conjunctivitis,Include omega-3 fatty acids
+3,Conjunctivitis,Stay hydrated
+4,Conjunctivitis,Eat foods rich in vitamin C
+5,Conjunctivitis,Include quercetin-rich foods
+6,Conjunctivitis,Consume local honey
+7,Conjunctivitis,Limit processed foods
+8,Conjunctivitis,Include ginger in diet
+9,Conjunctivitis,Avoid artificial additives
+10,Dry_eye_syndrome,Consume smaller meals
+11,Dry_eye_syndrome,Avoid trigger foods (spicy, fatty)
+12,Dry_eye_syndrome,Eat high-fiber foods
+13,Dry_eye_syndrome,Limit caffeine and alcohol
+14,Dry_eye_syndrome,Chew food thoroughly
+15,Dry_eye_syndrome,Avoid late-night eating
+16,Dry_eye_syndrome,Consume non-citrus fruits
+17,Dry_eye_syndrome,Include lean proteins
+18,Dry_eye_syndrome,Stay hydrated
+19,Dry_eye_syndrome,Avoid carbonated beverages
+20,Blepharitis,Consume a low-fat diet
+21,Blepharitis,Eat high-fiber foods
+22,Blepharitis,Include healthy fats
+23,Blepharitis,Limit alcohol consumption
+24,Blepharitis,Stay hydrated
+25,Blepharitis,Consume antioxidant-rich foods
+26,Blepharitis,Include omega-3 fatty acids
+27,Blepharitis,Include lean proteins
+28,Blepharitis,Limit processed foods
+29,Blepharitis,Avoid fried foods
+30,Keratitis,Discontinue offending medication
+31,Keratitis,Stay hydrated
+32,Keratitis,Include anti-inflammatory foods
+33,Keratitis,Consume antioxidants
+34,Keratitis,Avoid trigger foods
+35,Keratitis,Include omega-3 fatty acids
+36,Keratitis,Limit caffeine and alcohol
+37,Keratitis,Stay hydrated
+38,Keratitis,Eat a balanced diet
+39,Keratitis,Consult a healthcare professional
+40,Strabismus,Consume smaller, more frequent meals
+41,Strabismus,Avoid trigger foods (spicy, acidic)
+42,Strabismus,Include high-fiber foods
+43,Strabismus,Limit caffeine and alcohol
+44,Strabismus,Stay hydrated
+45,Strabismus,Consume probiotics
+46,Strabismus,Include lean proteins
+47,Strabismus,Include antioxidant-rich foods
+48,Strabismus,Limit processed foods
+49,Strabismus,Avoid smoking and alcohol
+50,Amblyopia,Follow a balanced and nutritious diet
+51,Amblyopia,Include lean proteins
+52,Amblyopia,Consume nutrient-rich foods
+53,Amblyopia,Stay hydrated
+54,Amblyopia,Include healthy fats
+55,Amblyopia,Avoid raw or undercooked foods
+56,Amblyopia,Limit sugary foods and beverages
+57,Amblyopia,Consume immune-boosting foods
+58,Amblyopia,Take prescribed supplements
+59,Amblyopia,Consult a healthcare professional
+60,Astigmatism,Monitor carbohydrate intake
+61,Astigmatism,Eat balanced meals
+62,Astigmatism,Include lean proteins
+63,Astigmatism,Consume high-fiber foods
+64,Astigmatism,Stay hydrated
+65,Astigmatism,Limit sugary foods and beverages
+66,Astigmatism,Include healthy fats
+67,Astigmatism,Monitor blood sugar levels
+68,Astigmatism,Consult a registered dietitian
+69,Astigmatism,Take prescribed medications as directed
+70,Presbyopia,Stay hydrated
+71,Presbyopia,Consume clear fluids
+72,Presbyopia,Follow the BRAT diet (bananas, rice, applesauce, toast)
+73,Presbyopia,Include bland foods
+74,Presbyopia,Avoid fatty and greasy foods
+75,Presbyopia,Limit caffeine and alcohol
+76,Presbyopia,Avoid spicy foods
+77,Presbyopia,Consult a healthcare professional
+78,Presbyopia,Gradually reintroduce solid foods
+79,Presbyopia,Avoid dairy products
+80,Night_blindness,Include anti-inflammatory foods
+81,Night_blindness,Consume omega-3 fatty acids
+82,Night_blindness,Limit sodium intake
+83,Night_blindness,Stay hydrated
+84,Night_blindness,Include antioxidant-rich foods
+85,Night_blindness,Avoid sulfite-containing foods
+86,Night_blindness,Limit processed foods
+87,Night_blindness,Consume magnesium-rich foods
+88,Night_blindness,Consult a healthcare professional
+89,Night_blindness,Avoid trigger foods
+90,Ocular_migraines,Follow the DASH diet (Dietary Approaches to Stop Hypertension)
+91,Ocular_migraines,Limit sodium intake
+92,Ocular_migraines,Include potassium-rich foods
+93,Ocular_migraines,Stay hydrated
+94,Ocular_migraines,Consume calcium-rich foods
+95,Ocular_migraines,Limit alcohol consumption
+96,Ocular_migraines,Include magnesium-rich foods
+97,Ocular_migraines,Consume omega-3 fatty acids
+98,Ocular_migraines,Limit processed foods
+99,Ocular_migraines,Consult a healthcare professional
+100,Retinitis_pigmentosa,Identify and avoid trigger foods
+101,Retinitis_pigmentosa,Stay hydrated
+102,Retinitis_pigmentosa,Include magnesium-rich foods
+103,Retinitis_pigmentosa,Consume omega-3 fatty acids
+104,Retinitis_pigmentosa,Limit caffeine and alcohol
+105,Retinitis_pigmentosa,Consume riboflavin-rich foods
+106,Retinitis_pigmentosa,Limit processed foods
+107,Retinitis_pigmentosa,Maintain regular meal times
+108,Retinitis_pigmentosa,Consult a healthcare professional
+109,Retinitis_pigmentosa,Manage stress
+110,Uveitis,Include anti-inflammatory foods
+111,Uveitis,Consume omega-3 fatty acids
+112,Uveitis,Limit sodium intake
+113,Uveitis,Stay hydrated
+114,Uveitis,Include antioxidant-rich foods
+115,Uveitis,Avoid sulfite-containing foods
+116,Uveitis,Limit processed foods
+117,Uveitis,Consume magnesium-rich foods
+118,Uveitis,Consult a healthcare professional
+119,Uveitis,Avoid trigger foods
+120,Glaucoma,Follow the DASH diet (Dietary Approaches to Stop Hypertension)
+121,Glaucoma,Limit sodium intake
+122,Glaucoma,Include potassium-rich foods
+123,Glaucoma,Stay hydrated
+124,Glaucoma,Consume calcium-rich foods
+125,Glaucoma,Limit alcohol consumption
+126,Glaucoma,Include magnesium-rich foods
+127,Glaucoma,Consume omega-3 fatty acids
+128,Glaucoma,Limit processed foods
+129,Glaucoma,Consult a healthcare professional
+130,Color_blindness,Identify and avoid trigger foods
+131,Color_blindness,Stay hydrated
+132,Color_blindness,Include magnesium-rich foods
+133,Color_blindness,Consume omega-3 fatty acids
+134,Color_blindness,Limit caffeine and alcohol
+135,Color_blindness,Consume riboflavin-rich foods
+136,Color_blindness,Limit processed foods
+137,Color_blindness,Maintain regular meal times
+138,Color_blindness,Consult a healthcare professional
+139,Color_blindness,Manage stress
+140,Cataracts,Include anti-inflammatory foods
+141,Cataracts,Consume omega-3 fatty acids
+142,Cataracts,Include vitamin D-rich foods
+143,Cataracts,Stay hydrated
+144,Cataracts,Consume antioxidant-rich foods
+145,Cataracts,Limit processed foods
+146,Cataracts,Include lean proteins
+147,Cataracts,Practice good posture
+148,Cataracts,Consult a healthcare professional
+149,Cataracts,Engage in regular exercise
+150,Night_blindness,Identify and avoid trigger foods
+151,Night_blindness,Stay hydrated
+152,Night_blindness,Include magnesium-rich foods
+153,Night_blindness,Consume omega-3 fatty acids
+154,Night_blindness,Limit caffeine and alcohol
+155,Night_blindness,Consume riboflavin-rich foods
+156,Night_blindness,Limit processed foods
+157,Night_blindness,Maintain regular meal times
+158,Night_blindness,Consult a healthcare professional
+159,Night_blindness,Manage stress
