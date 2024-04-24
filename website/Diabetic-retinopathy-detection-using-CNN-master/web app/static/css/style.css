@@ -4,7 +4,7 @@ nav {
 }
 
 nav .nav-wrapper {
-  background: #E4D00A;
+  background: #FFC619;
   /* fallback for old browsers */
 }
 
@@ -15,21 +15,21 @@ nav .nav-wrapper .brand-logo {
 
 nav .nav-wrapper .btn {
   background: black;
-  color: #E4D00A;
+  color: #FFC619;
   font-weight: 600;
 }
 
 #mobile-demo {
-  background: #E4D00A;
+  background: #FFC619;
 }
 
 #mobile-demo a {
-  color: #E4D00A;
+  color: #FFC619;
 }
 
 #mobile-demo .btn {
   background: black;
-  color: #E4D00A;
+  color: #FFC619;
 }
 
 .topSection .parallax-container .parallax {
@@ -46,17 +46,17 @@ nav .nav-wrapper .btn {
 
 .topSection .parallax-container .test h1 {
   font-weight: 700;
-  color: #E4D00A;
+  color: #FFC619;
 }
 
 .topSection .parallax-container .test button {
   background: black;
-  color: #E4D00A;
+  color: #FFC619;
   font-weight: 600;
 }
 
 .topSection .parallax-container .test a {
-  color: #E4D00A;
+  color: #FFC619;
 }
 
 .intro {
@@ -107,7 +107,7 @@ nav .nav-wrapper .btn {
 }
 
 .footer {
-  background: #E4D00A;
+  background: #FFC619;
   color: black;
 }
 
@@ -180,7 +180,7 @@ nav .nav-wrapper .btn {
 }
 
 .prevention h3 {
-  color: #E4D00A;
+  color: #FFC619;
 }
 
 .treatment {
@@ -189,7 +189,7 @@ nav .nav-wrapper .btn {
 
 .treatment h3 {
   padding: 30px;
-  color: #E4D00A;
+  color: #FFC619;
 }
 
 .treatment .container {
@@ -200,12 +200,12 @@ nav .nav-wrapper .btn {
   background: black;
   font-size: 20px;
   padding-top: 7%;
-  color: #E4D00A;
+  color: #FFC619;
   font-weight: 500;
 }
 
 .predict h2 {
-  background: #E4D00A;
+  background: #FFC619;
   padding: 12px;
   color: black;
   border-radius: 10px;
@@ -214,7 +214,7 @@ nav .nav-wrapper .btn {
 .predict p {
   font-size: 25px;
   padding: 5px;
-  border-bottom: 1px solid #E4D00A;
+  border-bottom: 1px solid #FFC619;
 }
 
 .predict .container {
@@ -231,7 +231,7 @@ nav .nav-wrapper .btn {
 
 .predict button {
   border: none;
-  background: #E4D00A;
+  background: #FFC619;
   color: black;
   border-radius: 10px;
   cursor: pointer;
