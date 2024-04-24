@@ -11,14 +11,14 @@ Google Girl Hackathon 2024 Project
 
 ## 2. Literature Review
 
-- [Diabetic Retinopathy Detection Using Deep Learning](link)
-- [Automatic Cataract Detection and Grading Using Deep Convolutional Neural Network](link)
-- [CataractNet: An Automated Cataract Detection System Using Deep Learning for Fundus Images](link)
+- [“Diabetic Retinopathy Detection Using Deep Learning,” October 9, 2020.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9277506)
+- [“Automatic Cataract Detection and Grading Using Deep Convolutional Neural Network,” May 1, 2017.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8000068)
+- [Junayed, “CataractNet: An Automated Cataract Detection System Using Deep Learning for Fundus Images,” September 9, 2022.](https://www.academia.edu/56670364/CataractNet_An_Automated_Cataract_Detection_System_using_Deep_Learning_for_Fundus_Images)
 
 ## 3. Dataset Details
 
-- [Diagnosis of Diabetic Retinopathy](link)
-- [Ocular Disease Recognition](link)
+- [“Diagnosis of Diabetic Retinopathy,” November 23, 2023.](https://www.kaggle.com/datasets/pkdarabi/diagnosis-of-diabetic-retinopathy/data)
+- [“Ocular Disease Recognition,” September 24, 2020.](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k)
 
 ## 4. Proposed Architecture
 
