@@ -14,7 +14,7 @@ nav .nav-wrapper .brand-logo {
 }
 
 nav .nav-wrapper .btn {
-  background: black;
+  background: white;
   color: #FFC619;
   font-weight: 600;
 }
@@ -28,7 +28,7 @@ nav .nav-wrapper .btn {
 }
 
 #mobile-demo .btn {
-  background: black;
+  background: white;
   color: #FFC619;
 }
 
@@ -50,7 +50,7 @@ nav .nav-wrapper .btn {
 }
 
 .topSection .parallax-container .test button {
-  background: black;
+  background: white;
   color: #FFC619;
   font-weight: 600;
 }
@@ -68,7 +68,7 @@ nav .nav-wrapper .btn {
 }
 
 .intro .def {
-  background: black;
+  background: white;
 }
 
 .intro .def h1, .intro .def h5, .intro .def p {
@@ -85,7 +85,7 @@ nav .nav-wrapper .btn {
   background: url(../images/about.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  color: black;
+  color: white;
 }
 
 .about .col {
@@ -93,7 +93,7 @@ nav .nav-wrapper .btn {
 }
 
 .contact {
-  background: black;
+  background: white;
 }
 
 .contact .container {
@@ -108,11 +108,11 @@ nav .nav-wrapper .btn {
 
 .footer {
   background: #FFC619;
-  color: black;
+  color: white;
 }
 
 .footer a {
-  color: black;
+  color: white;
 }
 
 .footer .socialMedia {
@@ -126,7 +126,7 @@ nav .nav-wrapper .btn {
 
 .footer .socialMedia a {
   font-size: 30px;
-  color: black;
+  color: white;
 }
 
 .signin {
@@ -174,7 +174,7 @@ nav .nav-wrapper .btn {
 .prevention {
   padding-top: 10%;
   background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 235, 210, 0.9)), to(rgba(255, 235, 210, 0.3))), url(../images/test.jpg);
-  background-image: linear-gradient(to top, black, rgba(255, 235, 210, 0.3)), url(../images/test.jpg);
+  background-image: linear-gradient(to top, white, rgba(255, 235, 210, 0.3)), url(../images/test.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -184,7 +184,7 @@ nav .nav-wrapper .btn {
 }
 
 .treatment {
-  background: black;
+  background: white;
 }
 
 .treatment h3 {
@@ -197,7 +197,7 @@ nav .nav-wrapper .btn {
 }
 
 .predict {
-  background: black;
+  background: white;
   font-size: 20px;
   padding-top: 7%;
   color: #FFC619;
@@ -207,7 +207,7 @@ nav .nav-wrapper .btn {
 .predict h2 {
   background: #FFC619;
   padding: 12px;
-  color: black;
+  color: white;
   border-radius: 10px;
 }
 
@@ -232,7 +232,7 @@ nav .nav-wrapper .btn {
 .predict button {
   border: none;
   background: #FFC619;
-  color: black;
+  color: white;
   border-radius: 10px;
   cursor: pointer;
   font-size: 20px;
