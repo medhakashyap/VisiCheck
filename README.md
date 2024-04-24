@@ -21,6 +21,7 @@ Google Girl Hackathon 2024 Project
 ## 3. Dataset Details
 
 - [“Diagnosis of Diabetic Retinopathy,” November 23, 2023.](https://www.kaggle.com/datasets/pkdarabi/diagnosis-of-diabetic-retinopathy/data)
+- The dataset on Kaggle provides retinal fundus images for diagnosing diabetic retinopathy. It includes images labeled with varying degrees of retinopathy severity, allowing researchers to develop and evaluate machine-learning algorithms for automated diabetic retinopathy detection.
 - [“Ocular Disease Recognition,” September 24, 2020.](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k)
 
 ## 4. Proposed Architecture
@@ -34,10 +35,10 @@ Visualizations are presented in Python notebooks, showcasing data insights, loss
 ## 6. Results
 
 - **Diabetic Retinopathy Detection:**
-  - Utilized a CNN model achieving an accuracy of 94%.
+  - Utilized a CNN model, achieving an accuracy of 94%.
   
 - **Cataract Detection:**
-  - Employed a custom CNN architecture achieving an accuracy of 95-98%.
+  - Employed a custom CNN architecture, achieving 95-98% accuracy.
 
 ## 7. Analysis of Results
 
@@ -47,3 +48,6 @@ Visualizations are presented in Python notebooks, showcasing data insights, loss
 ## 8. Inferences and Conclusion
 
 The system demonstrates promising results in detecting diabetic retinopathy and cataracts, with accuracies ranging from 94% to 98%. By leveraging deep learning models and educational modules, the system aims to improve eye health awareness and access to specialized care, particularly in regions with limited healthcare resources.
+
+### Note
+In this phase of the project, I present my working AI model along with the front-end to deploy it on. However, the integration phase is taking more time and assistance than anticipated. Thus, I will present my complete integrated project during the final phase of this hackathon.
