@@ -174,7 +174,7 @@ nav .nav-wrapper .btn {
 .prevention {
   padding-top: 10%;
   background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 235, 210, 0.9)), to(rgba(255, 235, 210, 0.3))), url(../images/test.jpg);
-  background-image: linear-gradient(to top, rgba(255, 235, 210, 0.9), rgba(255, 235, 210, 0.3)), url(../images/test.jpg);
+  background-image: linear-gradient(to top, black, rgba(255, 235, 210, 0.3)), url(../images/test.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }

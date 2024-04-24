@@ -41,7 +41,7 @@
         <div class="container">
             <div class="row">
                 <div class="col s12">
-                    <h2>Upload Fundus image of your eye here !!</h2>
+                    <h2>VisiCheck : Upload Fundus image of your eye</h2>
                     <input id="image-selector" type="file"/>
                     <button id="predict-button">Predict</button>
                     <p>Probability of Diabetic Retinopathy : <span id="dr-prediction"></span></p>
@@ -161,85 +161,5 @@
         </div>
     </div>
 
-    <div class="contact">
-        <div class="container">
-            <div class="row scrollspy" id="welcomeContact">
-                <div class="col s12 l4 ">
-                    <h3>Address</h3>
-                    <p><i class="material-icons">location_on</i>: Kathmandu, Nepal</p>
-                    <p><i class="material-icons">email</i>: eyecare@gmail.com</p>
-                    <p><i class="material-icons">call</i>: +977 1234567890</p>
-                </div>
-                <div class="col s12 l8">
-                    <form class="col s12">
-                        <h3>Quick Messages / Feedback</h3>
-                        <div class="row">
-                            <div class="input-field col s6">
-                                <i class="material-icons prefix">account_circle</i>
-                                <input id="icon_prefix" type="text" class="validate">
-                                <label for="icon_prefix">First Name</label>
-                            </div>
-                            <div class="input-field col s6">
-                                <i class="material-icons prefix">phone</i>
-                                <input id="icon_telephone" type="tel" class="validate">
-                                <label for="icon_telephone">Telephone</label>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="input-field col s12">
-                                <i class="material-icons prefix">email</i>
-                                <input id="email" type="email" class="validate">
-                                <label for="email">Email</label>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="input-field col s12">
-                            <i class="material-icons prefix">mode_edit</i>
-                            <textarea id="icon_prefix2" class="materialize-textarea"></textarea>
-                            <label for="icon_prefix2">Message</label>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-<script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
-<!-- Compiled and minified JavaScript -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-<script>
-    let base64Image;
-    $("#image-selector").change(function() {
-        let reader = new FileReader();
-        reader.onload = function(e) {
-            let dataURL = reader.result;
-            $('#selected-image').attr("src", dataURL);
-            base64Image = dataURL.replace("data:image/jpeg;base64,","");
-            console.log(base64Image);
-        }
-        reader.readAsDataURL($("#image-selector")[0].files[0]);
-        $("#dr-prediction").text("");
-        $("#nodr-prediction").text("");
-    });
-    
-    $("#predict-button").click(function(event){
-        let message = {
-            image: base64Image
-        }
-        console.log(message);
-        $.post("http://localhost:5000/predict", JSON.stringify(message),function(response){
-            $("#dr-prediction").text(response.prediction.dr.toFixed(6));
-            $("#nodr-prediction").text(response.prediction.nodr.toFixed(6));
-            console.log(response);
-        });
-    });
-
-    $(document).ready(function(){
-        $('.parallax').parallax();
-        $('.collapsible').collapsible();
-    });
-</script>
 </body>
 </html>
